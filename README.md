@@ -61,7 +61,7 @@ financial_indicator_sentiment/
 
 1. **Clone the repository:**
    ```bash
-   git clone 'https://github.com/cyrolux123/Intern-Ashad/tree/main/financial_indicator_sentiment'
+   git clone https://github.com/45Harry/financial_indicator_sentiment
    cd financial_indicator_sentiment
    ```
 
